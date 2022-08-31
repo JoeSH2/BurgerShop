@@ -1,0 +1,301 @@
+[
+      {
+       "id": 1,
+       "title": "ЧЕРНАЯ МАМБА",
+       "price": 530,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/6041e3c391768.png",
+       "category": "burgers",
+       "description": "О чем думают люди, когда слышат о нас? Конечно, о ней — великолепной 'Чёрной Мамбе'. Это бургер, которому нет равных. Неожиданное сочетание вишни и мраморной говядины не оставляет равнодушными даже самых скептически настроеннных гостей.",
+       "mainDescription": "С вишней, беконом и сыром чеддер",
+            "titleDoping": "ДОБАВЬ В БУРГЕР",
+            "dopings": ["ХАЛАПЕНЬО", "ЧЕДДЕР", "САЛАТ АЙСБЕРГ", "МАРИНОВАНЫЙ ОГУРЕЦ", "КРАСНЫЙ ЛУК", "КОПЧЕНЫЙ ЛУК", "БЕКОН", "ВИШНЯ"],
+            "dopingsPrice": [50, 100, 50, 50, 50, 50, 100, 50]
+      },
+      {
+       "id": 2,
+       "title": "СПЕЦАГЕНТ",
+       "price": 480,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/2.png",
+       "category": "burgers",
+       "description": "Вечная классика играет новыми красками в нашем Спецагенте. Секрет его вкуса — в свежих продуктах, соусах, которые мы готовим сами и, конечно, в котлете из стейковой говядины. А уж от голода этот супергерой спасает на ура!",
+       "mainDescription": "С сыром чеддер и авторским кетчупом",
+            "titleDoping": "ДОБАВЬ В БУРГЕР",
+            "dopings": ["ХАЛАПЕНЬО", "ЧЕДДЕР", "САЛАТ АЙСБЕРГ", "МАРИНОВАНЫЙ ОГУРЕЦ", "КРАСНЫЙ ЛУК", "КОПЧЕНЫЙ ЛУК", "БЕКОН", "ВИШНЯ"],
+            "dopingsPrice": [50, 100, 50, 50, 50, 50, 100, 50]
+      },
+      {
+       "id": 3,
+       "title": "BAD BRO",
+       "price": 480,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f3d0b83d14ca.png",
+       "category": "burgers",
+       "description": "“Плохой Бро” вполне себе оказывается хорошим, когда речь заходит о его вкусе. Котлета отлично оттеняется острым соусом из смеси нескольких перцев, а пикантность всей конструкции придает сладкий ялтинский лук, выдержанный в специальном маринаде.",
+       "mainDescription": "С острым соусом из смеси перцев и красным ялтинским луком",
+            "titleDoping": "ДОБАВЬ В БУРГЕР",
+            "dopings": ["ХАЛАПЕНЬО", "ЧЕДДЕР", "САЛАТ АЙСБЕРГ", "МАРИНОВАНЫЙ ОГУРЕЦ", "КРАСНЫЙ ЛУК", "КОПЧЕНЫЙ ЛУК", "БЕКОН", "ВИШНЯ"],
+            "dopingsPrice": [50, 100, 50, 50, 50, 50, 100, 50]
+      },
+      {
+       "id": 4,
+       "title": "РОДЖЕРС",
+       "price": 480,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/620cad035f32d.png",
+       "category": "burgers",
+       "description": "с карамельным беконом, красным луком, с горчичным соусом и соусом релиш",
+       "mainDescription": "с карамельным беконом, красным луком, с горчичным соусом и соусом релиш",
+            "titleDoping": "ДОБАВЬ В БУРГЕР",
+            "dopings": ["ХАЛАПЕНЬО", "ЧЕДДЕР", "САЛАТ АЙСБЕРГ", "МАРИНОВАНЫЙ ОГУРЕЦ", "КРАСНЫЙ ЛУК", "КОПЧЕНЫЙ ЛУК", "БЕКОН", "ВИШНЯ"],
+            "dopingsPrice": [50, 100, 50, 50, 50, 50, 100, 50]
+      },
+      {
+       "id": 5,
+       "title": "БРЕКФЭСТ БУРГЕР",
+       "price": 610,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/620cac5cb4d1a.png",
+       "category": "burgers",
+       "description": "с моцареллой, помидором, сырным соусом и яйцом",
+       "mainDescription": "с моцареллой и яйцом",
+            "titleDoping": "ДОБАВЬ В БУРГЕР",
+            "dopings": ["ХАЛАПЕНЬО", "ЧЕДДЕР", "САЛАТ АЙСБЕРГ", "МАРИНОВАНЫЙ ОГУРЕЦ", "КРАСНЫЙ ЛУК", "КОПЧЕНЫЙ ЛУК", "БЕКОН", "ВИШНЯ"],
+            "dopingsPrice": [50, 100, 50, 50, 50, 50, 100, 50]
+      },
+      {
+       "id": 6,
+       "title": "ВАРКА",
+       "price": 480,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/6.png",
+       "category": "burgers",
+       "description": "О чем думают люди, когда слышат о нас? Конечно, о ней — великолепной 'Чёрной Мамбе'. Это бургер, которому нет равных. Неожиданное сочетание вишни и мраморной говядины не оставляет равнодушными даже самых скептически настроеннных гостей.",
+       "mainDescription": "С копчёным сыром сулугуни и луком конфи",
+            "titleDoping": "ДОБАВЬ В БУРГЕР",
+            "dopings": ["ХАЛАПЕНЬО", "ЧЕДДЕР", "САЛАТ АЙСБЕРГ", "МАРИНОВАНЫЙ ОГУРЕЦ", "КРАСНЫЙ ЛУК", "КОПЧЕНЫЙ ЛУК", "БЕКОН", "ВИШНЯ"],
+            "dopingsPrice": [50, 100, 50, 50, 50, 50, 100, 50]
+      },
+      {
+       "id": 1,
+       "title": "ТРЮФЕЛЬ",
+       "price": 590,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/60c0c5e19b0cb.png",
+       "category": "burgersBoul",
+       "description": "с шампиньонами в соусе мусковадо, трюфельным кремчизом, копченым луком",
+       "mainDescription": "с шампиньонами в соусе мусковадо, трюфельным кремчизом, копченым луком",
+            "titleDoping": "КОТЛЕТА",
+            "dopings": ["ГОВЯЖЬЯ", "КУРИНАЯ", "КРЕВЕТКИ", "НУТОВАЯ"],
+            "dopingsPrice": ["", "", 90, ""],
+            "titleDoping2": "ВЫБЕРИ ГАРНИР",
+            "dopings2": ["РИС", "САЛАТ"]
+      },
+      {
+       "id": 2,
+       "title": "АЗИАТСКИЙ",
+       "price": 590,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/6153065cb8b23.png",
+       "category": "burgersBoul",
+       "description": "с авокадо, огурцом, бобами эдамаме, нори и орехово-кунжутным соусом",
+       "mainDescription": "с авокадо, огурцом, бобами эдамаме, нори и орехово-кунжутным соусом",
+            "titleDoping": "КОТЛЕТА",
+            "dopings": ["ГОВЯЖЬЯ", "КУРИНАЯ", "КРЕВЕТКИ", "НУТОВАЯ"],
+            "dopingsPrice": ["", "", 90, ""],
+            "titleDoping2": "ВЫБЕРИ ГАРНИР",
+            "dopings2": ["РИС", "САЛАТ"]
+      },
+      {
+       "id": 1,
+       "title": "КАРТОШКА ФРИ",
+       "price": 220,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f7dac3cb75db.png",
+       "category": "snacks",
+       "description": "Картофель фри и специи",
+       "mainDescription": "Картофель фри и специи"
+      },
+      {
+       "id": 2,
+       "title": "СЫРНЫЕ ПАЛОЧКИ",
+       "price": 270,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f3d096f9e633.png",
+       "category": "snacks",
+       "description": "Палочки с сыром гауда",
+       "mainDescription": "Палочки с сыром гауда"
+      },
+      {
+       "id": 3,
+       "title": "СЫРНЫЕ ШАРИКИ",
+       "price": 330,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f3d09234a014.png",
+       "category": "snacks",
+       "description": "Шарики с сыром чеддер и беконом",
+       "mainDescription": "Шарики с сыром чеддер и беконом"
+      },
+      {
+       "id": 4,
+       "title": "КУРИНЫЕ КРЫЛЫШКИ",
+       "price": 470,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f439229762e6.png",
+       "category": "snacks",
+       "description": "С морковью, сельдереем и кунжутом, в глазури из сливы",
+       "mainDescription": "С морковью, сельдереем и кунжутом, в глазури из сливы"
+      },
+      {
+       "id": 5,
+       "title": "ЧИПСЫ ИЗ БЕКОНА",
+       "price": 320,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/620e012c93c5f.png",
+       "category": "snacks",
+       "description": "5 ломтиков",
+       "mainDescription": "5 ломтиков"
+      },
+      {
+       "id": 1,
+       "title": "С КУРИНЫМ ФИЛЕ",
+       "price": 380,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/615307d0e82c7.png",
+       "category": "salads",
+       "description": "Салат с кешью и куриным филе",
+       "mainDescription": "Салат с кешью и куриным филе"
+      },
+      {
+       "id": 2,
+       "title": "ГРЕЧЕСКИЙ",
+       "price": 380,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/620df262b571e.png",
+       "category": "salads",
+       "description": "Микс-салат, помидоры черри, оливки, лук красный",
+       "mainDescription": "Микс-салат, помидоры черри, оливки, лук красный"
+      },
+      {
+       "id": 3,
+       "title": "C КРЕВЕТКАМИ И АВОКАДО",
+       "price": 570,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/620df2bbb0d94.png",
+       "category": "salads",
+       "description": "креветки, апельсиновый перец, микс-салат, помидоры черри, заправка лаймовая, авокадо, лайм",
+       "mainDescription": "креветки, апельсиновый перец, микс-салат, помидоры черри, заправка лаймовая, авокадо, лайм"
+      },
+      {
+       "id": 1,
+       "title": "ФЛАНК",
+       "price": 840,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f44c1ea9df3c.png",
+       "category": "skeaks",
+       "description": "Тонкий край, с гарниром и соусом на выбор",
+       "mainDescription": "Нижняя часть, с гарниром и соусом на выбор",
+            "titleDoping": "ДОБАВЬ СОУС",
+            "dopings": ["БЕЗ СОУСА", "ДОМ КЕТЧУП", "СЛАДКИЙ ЧИЛИ", "ПЕРЕЧНЫЙ"],
+            "dopingsPrice": ["", "", 90, ""],
+            "titleDoping2": "ВЫБЕРИ ГАРНИР",
+            "dopings2": ["БЕЗ ГРАНИРА", "КУКУРУЗА ГРИЛЬ", "МИКС САЛАТОВ"]
+      },
+      {
+       "id": 2,
+       "title": "СТРИПЛОЙН",
+       "price": 1100,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5fb22a30867ee.png",
+       "category": "skeaks",
+       "description": "Тонкий край, с гарниром и соусом на выбор",
+       "mainDescription": "Тонкий край, с гарниром и соусом на выбор",
+            "titleDoping": "ДОБАВЬ СОУС",
+            "dopings": ["БЕЗ СОУСА", "ДОМ КЕТЧУП", "СЛАДКИЙ ЧИЛИ", "ПЕРЕЧНЫЙ"],
+            "dopingsPrice": ["", "", 90, ""],
+            "titleDoping2": "ВЫБЕРИ ГАРНИР",
+            "dopings2": ["БЕЗ ГРАНИРА", "КУКУРУЗА ГРИЛЬ", "МИКС САЛАТОВ"]
+      },
+      {
+       "id": 1,
+       "title": "ЛИМОНАД СМОРОДИНА",
+       "price": 220,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f8032585f10b.png",
+       "category": "drink",
+       "description": "Домашний холодный лимонад",
+       "mainDescription": "Домашний холодный лимонад"
+      },
+      {
+       "id": 2,
+       "title": "ГРУША-РОЗМАРИН",
+       "price": 330,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/62ac31b31d248.png",
+       "category": "drink",
+       "description": "0.4 л",
+       "mainDescription": "0.4 л"
+      },
+      {
+       "id": 3,
+       "title": "МАНГО-ПЕРЕЦ",
+       "price": 330,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/62ac31bca0eb2.png",
+       "category": "drink",
+       "description": "0.4 л",
+       "mainDescription": "0.4 л"
+      },
+      {
+       "id": 4,
+       "title": "ЛИМОНАД ЛИМОН",
+       "price": 220,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5fb25966d8902.png",
+       "category": "drink",
+       "description": "Домашний холодный лимонад",
+       "mainDescription": "Домашний холодный лимонад"
+      },
+      {
+       "id": 5,
+       "title": "БЕЛЬГИЙСКАЯ ВАФЛЯ",
+       "price": 270,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f7daa6b2e95c.png",
+       "category": "drink",
+       "description": "с вишней",
+       "mainDescription": "с вишней"
+      },
+      {
+       "id": 1,
+       "title": "СЫРНЫЙ",
+       "price": 50,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/603ccd52574b1.png",
+       "category": "sauces",
+       "description": "",
+       "mainDescription": ""
+      },
+      {
+       "id": 2,
+       "title": "МЕДОВАЯ ГОРЧИЦА",
+       "price": 50,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f3d2ea03e511.png",
+       "category": "sauces",
+       "description": "",
+       "mainDescription": ""
+      },
+      {
+       "id": 3,
+       "title": "ПЕРЕЧНЫЙ",
+       "price": 50,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f3d2e2c6b569.png",
+       "category": "sauces",
+       "description": "",
+       "mainDescription": ""
+      },
+      {
+       "id": 4,
+       "title": "ДОМАШНИЙ КЕТЧУП",
+       "price": 50,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5fb22a0b6ff16.png",
+       "category": "sauces",
+       "description": "",
+       "mainDescription": ""
+      },
+      {
+       "id": 5,
+       "title": "ГЛАЗУРЬ СО СЛИВОЙ",
+       "price": 50,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5f3d2e1e5bcac.png",
+       "category": "sauces",
+       "description": "",
+       "mainDescription": ""
+      },
+      {
+       "id": 6,
+       "title": "СЛАДКИЙ ЧИЛИ",
+       "price": 50,
+       "imageUrl": "https://www.burgerheroes.ru/pn/content/products_img/5feafc9573677.png",
+       "category": "sauces",
+       "description": "",
+       "mainDescription": ""
+      }
+   ]

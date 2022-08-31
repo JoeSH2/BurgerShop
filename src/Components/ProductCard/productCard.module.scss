@@ -1,0 +1,90 @@
+.card {
+    margin: 20px 0 80px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 250px;
+    min-width: 320px;
+    max-width: 320px;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.27s ease-in-out;
+    &:hover {
+        .cardTitle {
+            color: rgb(243, 178, 0);
+        }
+    }
+    @media (max-width: 768px) {
+        min-width: 90%;
+        min-height: 200px;
+        margin-bottom: 50px;
+    }
+}
+.cardWrapper {
+    overflow: hidden;
+    height: 100%;
+}
+.cardImg {
+    position: absolute;
+    bottom: -45px;
+    right: -20px;
+    width: 230px;
+    height: 230px;
+    z-index: -1;
+    object-fit: contain;
+    @media (max-width: 497px) {
+        width: 180px;
+        height: 180px;
+    }
+}
+.discription {
+    padding: 20px 0 0 0;
+}
+.cardTitle {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 1;
+    transition: color 0.2s ease-in-out;
+    @media (max-width: 497px) {
+        font-size: 28px;
+    }
+}
+.cardPrice {
+    font-size: 28px;
+    padding: 5px 0;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: 100;
+    @media (max-width: 497px) {
+        font-size: 24px;
+    }
+}
+.cardText {
+    width: 90%;
+    @media (max-width: 497px) {
+        font-size: 14px;
+    }
+}
+.btn {
+    
+    width: fit-content;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 8px 14px;
+    background: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s ease-out;
+    bottom: 0;
+
+    &:hover {
+        background-color: #ffffff;
+        color: #000;
+    }
+}

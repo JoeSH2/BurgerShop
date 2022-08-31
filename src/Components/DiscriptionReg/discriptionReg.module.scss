@@ -1,0 +1,101 @@
+.regWrapper {
+    position: relative;
+    margin: 40px 0 0 50px;
+    max-width: 600px;
+    @media (max-width: 768px) {
+        margin: 20px 0 0 15px;
+    }
+  }
+  .cashback {
+    font-size: 18px;
+    @media (max-width: 768px) {
+        font-size: 14px;
+    }
+  }
+  .cashback li {
+    line-height: 1.4;
+    margin: 0 0 15px 0;
+  }
+  .regBtn {
+    margin: 25px 0 0 0;
+    width: fit-content;
+    display: block;
+    font-size: 22px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 17px 25px;
+    background: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s ease-out;
+    bottom: 0;
+
+    &:hover {
+        background-color: #ffffff;
+        color: #000;
+    }
+}
+.application {
+    margin: 30px 0 0 0;
+    font-size: 18px;
+    li {
+        margin: 0 0 25px;
+    }
+    @media (max-width: 768px) {
+        font-size: 14px;
+    }
+}
+
+.label {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "intro-black", sans-serif;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-top: 22px;
+    display: block;
+    margin: 0 0 5px 0;
+}
+
+.standartInput {
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.inputDate {
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.all {
+    margin-bottom: 30px;
+}
+.regActive {
+    position: absolute;
+    top: -35px;
+    left: 0;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: rgb(49, 209, 0);
+    margin: 0 0 15px 0;
+}
+.regFalse {
+    margin: -15px 0 -4px 0;
+    color: rgb(192, 0, 0);
+}
+.checkbox {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    color: #000;
+}

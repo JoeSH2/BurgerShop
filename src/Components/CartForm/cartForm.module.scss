@@ -1,0 +1,165 @@
+.cartForm {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 50px 0;
+}
+.formWrapper {
+    width: 700px;
+}
+.formProfile {
+    border-radius: 15px 15px 0 0;
+    background-color: rgb(12, 12, 12);
+    padding: 20px;
+}
+.formTitle {
+    color: rgb(243, 178, 0);
+    padding: 10px 0 20px 0;
+    @media (max-width: 576px) {
+        font-size: 18px;
+    }
+}
+.formTime {
+    margin: -17px 0 17px 0;
+    color: rgba(255, 255, 255, 0.664);
+    @media (max-width: 576px) {
+        font-size: 14px;
+    }
+}
+.inputWrapper {
+    display: flex;
+    width: 100%;
+}
+.formField {
+    width: 50%;
+    &:first-child {
+        margin: 0 15px 0 0;
+    }
+}
+.label {
+    color: #ffffff96;
+    display: block;
+    font-size: 14px;
+    margin: 0 0 8px 0;
+    @media (max-width: 576px) {
+        font-size: 13px;
+    }
+}
+.inputPhone {
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 16px;
+    background-color: rgb(53, 53, 53);
+    border-radius: 5px;
+    margin: 0 0 20px 0;
+    color: #fff;
+
+    &::placeholder {
+        font-size: 14px;
+        color: rgb(221, 221, 221);
+    }
+    @media (max-width: 576px) {
+        margin: 0 0 10px 0;
+    }
+}
+.formDelivery {
+    margin: 5px 0;
+    background-color: rgb(12, 12, 12);
+    border-radius: 0 0 15px 15px;
+    padding: 20px;
+}
+.formAdaptive {
+    display: flex;
+    margin: 0 0 10px 0;
+}
+.formBlock {
+    flex: 0 1 auto;
+    margin: 0 15px 0 0;
+    &:last-child {
+        margin: 0;
+    }
+
+    input {
+        width: 100%;
+        padding: 15px 20px;
+        font-size: 16px;
+        background-color: rgb(53, 53, 53);
+        border-radius: 5px;
+        margin: 0 0 20px 0;
+        color: #fff;
+    }
+
+    @media (max-width: 576px) {
+        input {
+            padding: 15px 10px;
+            font-size: 14px;
+        }
+    }
+}
+.formAdaptive {
+    display: flex;
+}
+.formHome {
+    flex: 0 1 auto;
+    margin: 0 15px 0 0;
+    &:last-child {
+        margin: 0;
+    }
+
+    input {
+        width: 100%;
+        padding: 15px 20px;
+        font-size: 16px;
+        background-color: rgb(53, 53, 53);
+        border-radius: 5px;
+        margin: 0 0 20px 0;
+        color: #fff;
+    }
+    @media (max-width: 576px) {
+        input {
+            padding: 15px 10px;
+            font-size: 14px;
+        }
+    }
+}
+.offer {
+    font-size: 16px;
+    color: rgb(243, 178, 0);
+    padding: 25px 0 0 0;
+    @media (max-width: 576px) {
+        padding: 5px 0 0 0;
+        font-size: 14px;
+        width: 90%;
+    }
+}
+.buttonCenter {
+    display: block;
+}
+.formButton {
+    width: 100%;
+    margin: 15px 0 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 20px 14px;
+    background: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s ease-out;
+    bottom: 0;
+
+    &:hover {
+        background-color: #ffffff;
+        color: #000;
+    }
+    @media (max-width: 576px) {
+        font-size: 16px;
+        padding: 15px;
+    }
+}
