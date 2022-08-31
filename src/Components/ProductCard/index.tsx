@@ -13,8 +13,8 @@ export interface IProduct {
 const BurgerCard: FC<IProduct> = memo(({ item, openModal }) => {
   const dispatch = useDispatch();
 
-  const clickModale = () => {
-    const productValue = {
+  const productValue = useMemo(() => {
+    return {
       id: item.id,
       category: item.category,
       imageUrl: item.imageUrl,
@@ -29,11 +29,10 @@ const BurgerCard: FC<IProduct> = memo(({ item, openModal }) => {
       dopings2: item.dopings2,
       count: 0,
     };
-    dispatch(openModal);
-    dispatch(addProductModal(productValue));
-  };
-  const clickAddCart = () => {
-    const productCartValue = {
+  }, [item]);
+  
+  const productCartValue = useMemo(() => {
+    return {
       id: item.id,
       category: item.category,
       imageUrl: item.imageUrl,
@@ -43,8 +42,16 @@ const BurgerCard: FC<IProduct> = memo(({ item, openModal }) => {
       dopings2: item.dopings2[0],
       count: 0,
     };
+  }, [item]);
+
+  const clickModale = () => {
+    dispatch(openModal);
+    dispatch(addProductModal(productValue));
+  };
+  const clickAddCart = () => {
     dispatch(addCartProduct(productCartValue));
   };
+  
   return (
     <div className={style.card}>
       <div onClick={clickModale} className={style.cardWrapper}>
