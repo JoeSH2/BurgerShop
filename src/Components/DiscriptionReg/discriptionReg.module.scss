@@ -66,6 +66,11 @@
     padding: 10px 20px;
     font-size: 18px;
     color: #fff;
+
+    @media (max-width: 768px) {
+        font-size: 16px;
+        padding: 6px 10px;
+    }
 }
 
 .inputDate {
@@ -76,9 +81,17 @@
     font-size: 18px;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
+    @media (max-width: 768px) {
+        font-size: 16px;
+        padding: 6px 10px;
+    }
 }
 .all {
     margin-bottom: 30px;
+    @media (max-width: 768px) {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
 }
 .regActive {
     position: absolute;
